@@ -1,0 +1,7 @@
+vehiclemanagementA#Vehicle
+vehiclemanagementA#Owner
+vehiclemanagementA#Driver
+vehiclemanagementA#Servicecheck
+vehiclemanagementA#Mechanic
+vehiclemanagementA#Service
+vehiclemanagementA#FleeUsageLog

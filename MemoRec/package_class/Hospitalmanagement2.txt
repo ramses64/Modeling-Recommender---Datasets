@@ -1,0 +1,6 @@
+hospitalmanagementB#Patient
+hospitalmanagementB#Doctor
+hospitalmanagementB#Nurse
+hospitalmanagementB#Appointment
+hospitalmanagementB#Department
+hospitalmanagementB#Emergencyroom

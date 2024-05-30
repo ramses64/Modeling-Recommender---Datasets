@@ -1,0 +1,7 @@
+universitymanagementC#Student
+universitymanagementC#Professor
+universitymanagementC#Course
+universitymanagementC#Department
+universitymanagementC#Administrativestaff
+universitymanagementC#Virtualclassroom
+universitymanagementC#Support

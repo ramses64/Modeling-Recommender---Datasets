@@ -1,0 +1,7 @@
+universitymanagementB#Student
+universitymanagementB#Professor
+universitymanagementB#Course
+universitymanagementB#Department
+universitymanagementB#Administrativestaff
+universitymanagementB#Research
+universitymanagementB#Collaboration

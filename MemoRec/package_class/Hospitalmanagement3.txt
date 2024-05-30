@@ -1,0 +1,8 @@
+hospitalmanagementC#Patient
+hospitalmanagementC#Doctor
+hospitalmanagementC#Nurse
+hospitalmanagementC#Appointment
+hospitalmanagementC#Department
+hospitalmanagementC#Telehealthsession
+hospitalmanagementC#Patientmonotoring
+hospitalmanagementC#Appointment

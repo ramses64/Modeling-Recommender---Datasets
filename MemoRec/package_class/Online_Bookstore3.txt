@@ -1,0 +1,9 @@
+bookstoreC#Order
+bookstoreC#Payment
+bookstoreC#Shoppingcart
+bookstoreC#Book
+bookstoreC#Author
+bookstoreC#Customer
+bookstoreC#Review
+bookstoreC#Seller
+bookstoreC#Trade

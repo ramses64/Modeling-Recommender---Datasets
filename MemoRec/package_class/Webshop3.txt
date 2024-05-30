@@ -1,0 +1,7 @@
+webshopC#Product
+webshopC#Customer
+webshopC#Shoppingcart
+webshopC#DownloadableContent
+webshopC#Payment
+webshopC#Service
+webshopC#Order

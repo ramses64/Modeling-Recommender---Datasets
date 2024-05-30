@@ -1,0 +1,7 @@
+bankingsystemA#Customer
+bankingsystemA#Account
+bankingsystemA#Transaction
+bankingsystemA#Branch
+bankingsystemA#Employee
+bankingsystemA#Loan
+bankingsystemA#Investment

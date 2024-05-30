@@ -1,0 +1,7 @@
+universitymanagementA#Student
+universitymanagementA#Professor
+universitymanagementA#Course
+universitymanagementA#Department
+universitymanagementA#Administrativestaff
+universitymanagementA#Advising
+universitymanagementA#Enrollment

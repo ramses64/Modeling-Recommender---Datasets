@@ -1,0 +1,7 @@
+hospitalmanagementA#Patient
+hospitalmanagementA#Doctor
+hospitalmanagementA#Nurse
+hospitalmanagementA#Appointment
+hospitalmanagementA#Department
+hospitalmanagementA#Carecoordinator
+hospitalmanagementA#Treatment

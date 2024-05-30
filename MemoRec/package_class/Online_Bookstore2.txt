@@ -1,0 +1,7 @@
+bookstoreB#Order
+bookstoreB#Payment
+bookstoreB#Shoppingcart
+bookstoreB#Book
+bookstoreB#Author
+bookstoreB#Customer
+bookstoreB#Review

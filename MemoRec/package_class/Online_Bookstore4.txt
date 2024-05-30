@@ -1,0 +1,8 @@
+bookstoreD#Order
+bookstoreD#Payment
+bookstoreD#Shoppingcart
+bookstoreD#Book
+bookstoreD#Author
+bookstoreD#Customer
+bookstoreD#Download
+bookstoreD#Subscription

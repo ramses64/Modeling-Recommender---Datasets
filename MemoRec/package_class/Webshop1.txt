@@ -1,0 +1,6 @@
+webshopA#Product
+webshopA#Customer
+webshopA#Order
+webshopA#Shoppingcart
+webshopA#Payment
+webshopA#Review

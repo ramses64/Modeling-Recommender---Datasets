@@ -1,0 +1,7 @@
+webshopB#Product
+webshopB#Supplier
+webshopB#Customer
+webshopB#Order
+webshopB#Shoppingcart
+webshopB#Payment
+webshopB#Account

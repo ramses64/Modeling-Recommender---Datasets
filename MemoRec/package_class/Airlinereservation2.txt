@@ -1,0 +1,7 @@
+airlinereservationB#Passenger
+airlinereservationB#Flight
+airlinereservationB#Booking
+airlinereservationB#Aircraft
+airlinereservationB#Crew
+airlinereservationB#CheckIn
+airlinereservationB#Baggage
